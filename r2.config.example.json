@@ -1,0 +1,7 @@
+{
+  "accountId": "YOUR_CLOUDFLARE_ACCOUNT_ID",
+  "bucket": "stalkie-assets",
+  "publicBaseUrl": "https://assets.example.com",
+  "manifestPath": "r2-manifest.json",
+  "concurrency": 16
+}

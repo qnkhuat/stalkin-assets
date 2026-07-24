@@ -1,0 +1,17 @@
+{
+  "name": "stalkin-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "r2:manifest": "node scripts/r2-assets.mjs manifest",
+    "r2:export": "node scripts/r2-assets.mjs export",
+    "r2:dry-run": "node scripts/r2-assets.mjs sync --dry-run",
+    "r2:sync": "node scripts/r2-assets.mjs sync",
+    "r2:verify": "node scripts/r2-assets.mjs verify"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.883.0",
+    "mime-types": "^3.0.1"
+  }
+}
