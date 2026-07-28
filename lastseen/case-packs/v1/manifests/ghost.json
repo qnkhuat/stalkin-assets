@@ -1,0 +1,1028 @@
+{
+  "schemaVersion": 1,
+  "packVersion": "v1",
+  "caseId": "ghost",
+  "locale": "en",
+  "contentRevision": "lastseen-1.1.12",
+  "source": {
+    "packageSha256": "720fbc1b9e62c6f1c2bd7a5d7c45de31c326d06e1c6a01fc58d0cd7e560a6f55",
+    "reconstructionManifest": "ghost.en.conversion-manifest.json",
+    "reconstructionManifestSha256": "b4e7153b71dccdb1e97565b668fa3bf2193d770d12df5b8d483fde23d89db8b4"
+  },
+  "delivery": {
+    "baseUrl": "https://raw.githubusercontent.com/qnkhuat/stalkin-assets/main/",
+    "integrity": "sha256",
+    "cacheKey": "sha256"
+  },
+  "summary": {
+    "downloadableEntries": 105,
+    "uniqueDownloadBlobs": 104,
+    "uniqueDownloadBytes": 14827493,
+    "bundledShellEntries": 20,
+    "bundledShellBytes": 412238
+  },
+  "assets": [
+    {
+      "logicalPath": "assets/images/contact_avatars/ghost/avatar_david.webp",
+      "role": "avatar",
+      "mediaType": "image/webp",
+      "sha256": "314d0e19770495dce51b2f83ec96b7471e4fa51e0f2518f74bdf436ead4eab05",
+      "bytes": 116530,
+      "blobPath": "lastseen/case-packs/v1/blobs/314d0e19770495dce51b2f83ec96b7471e4fa51e0f2518f74bdf436ead4eab05.webp"
+    },
+    {
+      "logicalPath": "assets/images/contact_avatars/ghost/avatar_hannah.webp",
+      "role": "avatar",
+      "mediaType": "image/webp",
+      "sha256": "a6cd17ba3027b892836fcab0e66341280f5c75aee484efd03c83b3ac2a8c0ba8",
+      "bytes": 82082,
+      "blobPath": "lastseen/case-packs/v1/blobs/a6cd17ba3027b892836fcab0e66341280f5c75aee484efd03c83b3ac2a8c0ba8.webp"
+    },
+    {
+      "logicalPath": "assets/images/contact_avatars/ghost/avatar_jamie.webp",
+      "role": "avatar",
+      "mediaType": "image/webp",
+      "sha256": "4eeb4ded7bc501e6afbca3bef849fefda5ff6df62f109aaa79d3899af5fb625f",
+      "bytes": 82948,
+      "blobPath": "lastseen/case-packs/v1/blobs/4eeb4ded7bc501e6afbca3bef849fefda5ff6df62f109aaa79d3899af5fb625f.webp"
+    },
+    {
+      "logicalPath": "assets/images/contact_avatars/ghost/avatar_lily.webp",
+      "role": "avatar",
+      "mediaType": "image/webp",
+      "sha256": "db0112fff8973ea7972211c6504e56e5b14dad48468ddb077f1b7e65a4b05d61",
+      "bytes": 222058,
+      "blobPath": "lastseen/case-packs/v1/blobs/db0112fff8973ea7972211c6504e56e5b14dad48468ddb077f1b7e65a4b05d61.webp"
+    },
+    {
+      "logicalPath": "assets/images/contact_avatars/ghost/avatar_marcus.webp",
+      "role": "avatar",
+      "mediaType": "image/webp",
+      "sha256": "e60febf27070d9d258f1e5b8e15f8f73dd8ce2e1788d0df729d9b23558619cce",
+      "bytes": 132746,
+      "blobPath": "lastseen/case-packs/v1/blobs/e60febf27070d9d258f1e5b8e15f8f73dd8ce2e1788d0df729d9b23558619cce.webp"
+    },
+    {
+      "logicalPath": "assets/images/contact_avatars/ghost/avatar_maya.webp",
+      "role": "avatar",
+      "mediaType": "image/webp",
+      "sha256": "0c70f05f9c5d9838954afb3e0c5687f35dc364219415f78d1182bb32762cc2ae",
+      "bytes": 136790,
+      "blobPath": "lastseen/case-packs/v1/blobs/0c70f05f9c5d9838954afb3e0c5687f35dc364219415f78d1182bb32762cc2ae.webp"
+    },
+    {
+      "logicalPath": "assets/images/contact_avatars/ghost/avatar_zoe.webp",
+      "role": "avatar",
+      "mediaType": "image/webp",
+      "sha256": "022ba51bcbac1e15fc7423d87d0ddde2f00e4f4df34c555a550558b947c6bd48",
+      "bytes": 124686,
+      "blobPath": "lastseen/case-packs/v1/blobs/022ba51bcbac1e15fc7423d87d0ddde2f00e4f4df34c555a550558b947c6bd48.webp"
+    },
+    {
+      "logicalPath": "assets/images/question_bg_ghost.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "bd334e47cad76b02fa55886065497f93c71a9da4950545afd5dce0c36b650468",
+      "bytes": 165966,
+      "blobPath": "lastseen/case-packs/v1/blobs/bd334e47cad76b02fa55886065497f93c71a9da4950545afd5dce0c36b650468.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_friends_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "aed74e9781b373e61b9e12202be8a7ede50052212f93e8874072a89b8af5d890",
+      "bytes": 233362,
+      "blobPath": "lastseen/case-packs/v1/blobs/aed74e9781b373e61b9e12202be8a7ede50052212f93e8874072a89b8af5d890.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "a09324ececa20c3aea4574db6799d34607b72d290df3cbf092be3290d41e6363",
+      "bytes": 258754,
+      "blobPath": "lastseen/case-packs/v1/blobs/a09324ececa20c3aea4574db6799d34607b72d290df3cbf092be3290d41e6363.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_02.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "842c47b8781c5bb5d313908acdc854e38641a4aae4acfd93ace2834571a69019",
+      "bytes": 220704,
+      "blobPath": "lastseen/case-packs/v1/blobs/842c47b8781c5bb5d313908acdc854e38641a4aae4acfd93ace2834571a69019.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_03.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "1eb9064eeeeca545e1bafd02f871364983540afe343afcadd695a23d66f3498c",
+      "bytes": 277868,
+      "blobPath": "lastseen/case-packs/v1/blobs/1eb9064eeeeca545e1bafd02f871364983540afe343afcadd695a23d66f3498c.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_04.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "1d765772fcf1a2e8e8b713b48183b21486103d4f101d8c58a908633c68b454f7",
+      "bytes": 190544,
+      "blobPath": "lastseen/case-packs/v1/blobs/1d765772fcf1a2e8e8b713b48183b21486103d4f101d8c58a908633c68b454f7.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_05.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "08acbf9369da305731cf90086e97096e27b22870a961801475b00e49eb7306b0",
+      "bytes": 364434,
+      "blobPath": "lastseen/case-packs/v1/blobs/08acbf9369da305731cf90086e97096e27b22870a961801475b00e49eb7306b0.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_06.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "6beadbe97c9ca87020e8c639087b2bdf4c18f20e7744ff1505898938ecc260ea",
+      "bytes": 150046,
+      "blobPath": "lastseen/case-packs/v1/blobs/6beadbe97c9ca87020e8c639087b2bdf4c18f20e7744ff1505898938ecc260ea.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_07.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "eb0a7226c8605025173f883f3989f403275792c42dc244b46c679be9c52317d7",
+      "bytes": 220292,
+      "blobPath": "lastseen/case-packs/v1/blobs/eb0a7226c8605025173f883f3989f403275792c42dc244b46c679be9c52317d7.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_08.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "c11df0d8750f627d6d3128ca18da04b1d80ab990a8585de311a41f3a16673d29",
+      "bytes": 177358,
+      "blobPath": "lastseen/case-packs/v1/blobs/c11df0d8750f627d6d3128ca18da04b1d80ab990a8585de311a41f3a16673d29.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_explore_09.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "3b30e3b72b962d193f6c9bb6c18a7269d212563846dabe10dc8f693afbdeb24a",
+      "bytes": 240676,
+      "blobPath": "lastseen/case-packs/v1/blobs/3b30e3b72b962d193f6c9bb6c18a7269d212563846dabe10dc8f693afbdeb24a.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_feed_hannah.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "7fb318c2e211a3a7bac7ab66c368d5a17785d4aa62ec269819d3af6e6d9a0bc5",
+      "bytes": 156476,
+      "blobPath": "lastseen/case-packs/v1/blobs/7fb318c2e211a3a7bac7ab66c368d5a17785d4aa62ec269819d3af6e6d9a0bc5.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_feed_jamie.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "6605d9281f5f7dca3fcbeb3f85eb97f93842157841c3026e40093f374ffc6c8b",
+      "bytes": 242234,
+      "blobPath": "lastseen/case-packs/v1/blobs/6605d9281f5f7dca3fcbeb3f85eb97f93842157841c3026e40093f374ffc6c8b.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_feed_marcus.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "00a89e661d9224036a57a9c5240d80c635dbb41af3ff9abbdb682949b24ccbc8",
+      "bytes": 69780,
+      "blobPath": "lastseen/case-packs/v1/blobs/00a89e661d9224036a57a9c5240d80c635dbb41af3ff9abbdb682949b24ccbc8.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_feed_maya.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "787419a7398652228010fce73c986decbe2baa485598dce8fafc3dc8f962a765",
+      "bytes": 183262,
+      "blobPath": "lastseen/case-packs/v1/blobs/787419a7398652228010fce73c986decbe2baa485598dce8fafc3dc8f962a765.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_feed_zoe_books.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "b3f0ceeff39bbbdfd10f17a39089fc76d50e4f769937bcb8d93cd04b20a58d3f",
+      "bytes": 188930,
+      "blobPath": "lastseen/case-packs/v1/blobs/b3f0ceeff39bbbdfd10f17a39089fc76d50e4f769937bcb8d93cd04b20a58d3f.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_feed_zoe_sunset.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "7b276c4ab3a09c126162b542762c415fa223e7e5e67f558c33f36cfb05a39256",
+      "bytes": 162348,
+      "blobPath": "lastseen/case-packs/v1/blobs/7b276c4ab3a09c126162b542762c415fa223e7e5e67f558c33f36cfb05a39256.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_grid_05.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "0d799c828c868be1c38948d07c0b627d49fcf586bac43e04d4b2b2ca1b35bd0f",
+      "bytes": 127552,
+      "blobPath": "lastseen/case-packs/v1/blobs/0d799c828c868be1c38948d07c0b627d49fcf586bac43e04d4b2b2ca1b35bd0f.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_grid_06.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "cc200d9113a967a58eb000f7ae375148ded26cbef1d75618bd936d5b2715215e",
+      "bytes": 105326,
+      "blobPath": "lastseen/case-packs/v1/blobs/cc200d9113a967a58eb000f7ae375148ded26cbef1d75618bd936d5b2715215e.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_hannah_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "845f366e51884ece77c20191580c3279271e40181441ebddd1ca3b148953aaa7",
+      "bytes": 205776,
+      "blobPath": "lastseen/case-packs/v1/blobs/845f366e51884ece77c20191580c3279271e40181441ebddd1ca3b148953aaa7.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_hannah_02.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "6436b9a048519999a3da90a70c48caaad99d249d620c7ad062645c2f94b1a7b5",
+      "bytes": 162530,
+      "blobPath": "lastseen/case-packs/v1/blobs/6436b9a048519999a3da90a70c48caaad99d249d620c7ad062645c2f94b1a7b5.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_jamie.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "c38ee97426b145598081e5da7473a167b6c8c24fec26f6d0843616f1e7c0e0d5",
+      "bytes": 204856,
+      "blobPath": "lastseen/case-packs/v1/blobs/c38ee97426b145598081e5da7473a167b6c8c24fec26f6d0843616f1e7c0e0d5.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_lily_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "cdd2d9024af1fe5ee5a07cf27ba1d38c5ac1e241b8ed53f0e1ce893759647e5c",
+      "bytes": 186630,
+      "blobPath": "lastseen/case-packs/v1/blobs/cdd2d9024af1fe5ee5a07cf27ba1d38c5ac1e241b8ed53f0e1ce893759647e5c.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_lily_02.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "a329ce2c70abb4c2ac18c114c57fe00e4d6157022c1fd923545240bb94a0d756",
+      "bytes": 331076,
+      "blobPath": "lastseen/case-packs/v1/blobs/a329ce2c70abb4c2ac18c114c57fe00e4d6157022c1fd923545240bb94a0d756.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_marcus.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "6a22c193e3acaf151755cf39165410a1ffd1f8b411dd83712baba33a9ca520b0",
+      "bytes": 17628,
+      "blobPath": "lastseen/case-packs/v1/blobs/6a22c193e3acaf151755cf39165410a1ffd1f8b411dd83712baba33a9ca520b0.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_maya.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "6e77be65a849404d7022010b46569ca08a55d3c2767e672bbf9e8872380d60a9",
+      "bytes": 161044,
+      "blobPath": "lastseen/case-packs/v1/blobs/6e77be65a849404d7022010b46569ca08a55d3c2767e672bbf9e8872380d60a9.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_zoe_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "6167d720fb680c0c66a43d2a919938904e28b6666d7665136e07d441d52f2d12",
+      "bytes": 189748,
+      "blobPath": "lastseen/case-packs/v1/blobs/6167d720fb680c0c66a43d2a919938904e28b6666d7665136e07d441d52f2d12.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_ig_story_zoe_02.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "466b78c22aebbc859afe6fd5350aa287a10e3799aafae2e517ab320042c160fc",
+      "bytes": 200290,
+      "blobPath": "lastseen/case-packs/v1/blobs/466b78c22aebbc859afe6fd5350aa287a10e3799aafae2e517ab320042c160fc.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "0c9d2e54f81a54f266555df3a9a63d000cf7c93544483a3ac99fe0a2f9e957c3",
+      "bytes": 21070,
+      "blobPath": "lastseen/case-packs/v1/blobs/0c9d2e54f81a54f266555df3a9a63d000cf7c93544483a3ac99fe0a2f9e957c3.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_03.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "5cb95f32d03d125664835c728dad30cefe1c89148016cf5bfbcd90a5ab2e85a2",
+      "bytes": 31238,
+      "blobPath": "lastseen/case-packs/v1/blobs/5cb95f32d03d125664835c728dad30cefe1c89148016cf5bfbcd90a5ab2e85a2.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_04.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "203da80ebb2d39445f744a1534d9c5a6cc3d03174c233762a0a8ab7f66290156",
+      "bytes": 26520,
+      "blobPath": "lastseen/case-packs/v1/blobs/203da80ebb2d39445f744a1534d9c5a6cc3d03174c233762a0a8ab7f66290156.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_05.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "6cf1a18d67c36333b151bafff5e41a38efdfb69fd8d8b5732cc7fb6ebf6fe0b4",
+      "bytes": 46374,
+      "blobPath": "lastseen/case-packs/v1/blobs/6cf1a18d67c36333b151bafff5e41a38efdfb69fd8d8b5732cc7fb6ebf6fe0b4.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_06.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "83f53724ddb2e71dee140f65676af5268c3330a21121674967d1d6d32c914a9f",
+      "bytes": 38532,
+      "blobPath": "lastseen/case-packs/v1/blobs/83f53724ddb2e71dee140f65676af5268c3330a21121674967d1d6d32c914a9f.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_07.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "83b54c14bc3516b598e1691e2e44f702c75a30b599bf89c1f49b90b3511ae23f",
+      "bytes": 27420,
+      "blobPath": "lastseen/case-packs/v1/blobs/83b54c14bc3516b598e1691e2e44f702c75a30b599bf89c1f49b90b3511ae23f.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_08.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "88e458f9b3c9eed460ddc0914d8c212e33c2af2968b13c833f8300c2914d1089",
+      "bytes": 40922,
+      "blobPath": "lastseen/case-packs/v1/blobs/88e458f9b3c9eed460ddc0914d8c212e33c2af2968b13c833f8300c2914d1089.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_09.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "01f091d417926d2f5a9268ec58c56f3b4e140d44ad9d556e1c5dfc49fffd6c3d",
+      "bytes": 35956,
+      "blobPath": "lastseen/case-packs/v1/blobs/01f091d417926d2f5a9268ec58c56f3b4e140d44ad9d556e1c5dfc49fffd6c3d.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_10.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "000dae6fc21e481d1ee6d80bcbdd85ac532154d160fceda422978ba69b3b6036",
+      "bytes": 56936,
+      "blobPath": "lastseen/case-packs/v1/blobs/000dae6fc21e481d1ee6d80bcbdd85ac532154d160fceda422978ba69b3b6036.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_11.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "8975e400c3e5de1b66650797d45362f7fb9881b34c153e164d4e3478473ecc2e",
+      "bytes": 64608,
+      "blobPath": "lastseen/case-packs/v1/blobs/8975e400c3e5de1b66650797d45362f7fb9881b34c153e164d4e3478473ecc2e.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_12.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "a44d2858f02c3d5f108f88598d9899d214beceefa100d212fa8898d8baeadfc7",
+      "bytes": 89398,
+      "blobPath": "lastseen/case-packs/v1/blobs/a44d2858f02c3d5f108f88598d9899d214beceefa100d212fa8898d8baeadfc7.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_13.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "7c599189b7fab1163f28978b9b7a605bd5ef33a70ad0b01ef0f3b78ecb32a645",
+      "bytes": 73718,
+      "blobPath": "lastseen/case-packs/v1/blobs/7c599189b7fab1163f28978b9b7a605bd5ef33a70ad0b01ef0f3b78ecb32a645.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_14.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "fee6e67fe2bf5b52f0cf0795f9417d2bb5cde48847c570b4ad1b05ae2fc8fa28",
+      "bytes": 75648,
+      "blobPath": "lastseen/case-packs/v1/blobs/fee6e67fe2bf5b52f0cf0795f9417d2bb5cde48847c570b4ad1b05ae2fc8fa28.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_15.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "2e1d77a4e83b923fd31880007a966daf71b62966c816b2dbe9f624be92dd8530",
+      "bytes": 95696,
+      "blobPath": "lastseen/case-packs/v1/blobs/2e1d77a4e83b923fd31880007a966daf71b62966c816b2dbe9f624be92dd8530.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_16.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "40400e8d813c712939e1a99e2b088c0d7ee9c02dd4b3a8f5b4016c6861921126",
+      "bytes": 129492,
+      "blobPath": "lastseen/case-packs/v1/blobs/40400e8d813c712939e1a99e2b088c0d7ee9c02dd4b3a8f5b4016c6861921126.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_17.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "01227892d0bdfcbf4cf0380f835a4b4d03cf33e166f1a72b759a06d577a9e278",
+      "bytes": 83964,
+      "blobPath": "lastseen/case-packs/v1/blobs/01227892d0bdfcbf4cf0380f835a4b4d03cf33e166f1a72b759a06d577a9e278.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_18.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "3d7ddf9b4893d018abf3d1b6fd08ef9b899ad2dd74000cffff19dfa344afb3ce",
+      "bytes": 136450,
+      "blobPath": "lastseen/case-packs/v1/blobs/3d7ddf9b4893d018abf3d1b6fd08ef9b899ad2dd74000cffff19dfa344afb3ce.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_19.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "0c033c27ae981fcacc13fadddc201cb14033acbc82f738e223abe4835e4920e9",
+      "bytes": 175066,
+      "blobPath": "lastseen/case-packs/v1/blobs/0c033c27ae981fcacc13fadddc201cb14033acbc82f738e223abe4835e4920e9.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_20.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "4fe3e0f63d833d056e9e10670e5eb8a39cd36a81be584e12fd582be9b3d6df90",
+      "bytes": 128360,
+      "blobPath": "lastseen/case-packs/v1/blobs/4fe3e0f63d833d056e9e10670e5eb8a39cd36a81be584e12fd582be9b3d6df90.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_21.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "a0994b3f1cf7b6c99399fb07d07604d9ac2379eca1e2745d82ee9d7cb7d62c6d",
+      "bytes": 135374,
+      "blobPath": "lastseen/case-packs/v1/blobs/a0994b3f1cf7b6c99399fb07d07604d9ac2379eca1e2745d82ee9d7cb7d62c6d.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_22.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "0879d49e2c44cd86bddb5ee11628e64b39fae9ce444d99df24eb4943696b7356",
+      "bytes": 164630,
+      "blobPath": "lastseen/case-packs/v1/blobs/0879d49e2c44cd86bddb5ee11628e64b39fae9ce444d99df24eb4943696b7356.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_23.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "34b74da3b6302f0345ec90e99bf1638ecc1e85d899dd9daaf4bdbe8286344733",
+      "bytes": 72668,
+      "blobPath": "lastseen/case-packs/v1/blobs/34b74da3b6302f0345ec90e99bf1638ecc1e85d899dd9daaf4bdbe8286344733.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_24.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "73f7de22b48d880fbc892adb69f73f933ccf838dc4b77af13dfeee1a1191bc94",
+      "bytes": 29364,
+      "blobPath": "lastseen/case-packs/v1/blobs/73f7de22b48d880fbc892adb69f73f933ccf838dc4b77af13dfeee1a1191bc94.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_25.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "1e2db14b941be3dbb94aa190aea8528051459a78a9cc2b9794a0abb0f9cbe141",
+      "bytes": 109170,
+      "blobPath": "lastseen/case-packs/v1/blobs/1e2db14b941be3dbb94aa190aea8528051459a78a9cc2b9794a0abb0f9cbe141.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_26.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "1a18029b69e7c813f8073344e3226604aa00ea05ef1b10b6a8067d5c51fb1193",
+      "bytes": 57418,
+      "blobPath": "lastseen/case-packs/v1/blobs/1a18029b69e7c813f8073344e3226604aa00ea05ef1b10b6a8067d5c51fb1193.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_27.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "7ef8c4c01e1f33b67c8c4a010ebf265b9c188d07d4e8ef751834545e08f527a6",
+      "bytes": 109788,
+      "blobPath": "lastseen/case-packs/v1/blobs/7ef8c4c01e1f33b67c8c4a010ebf265b9c188d07d4e8ef751834545e08f527a6.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_28.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "fb0124c43afa70239b9cf1fbf8adbee10e33add647b4e50ca51e359df7d2b50d",
+      "bytes": 84802,
+      "blobPath": "lastseen/case-packs/v1/blobs/fb0124c43afa70239b9cf1fbf8adbee10e33add647b4e50ca51e359df7d2b50d.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_29.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "1c11ae81704f267773abfb4384ccaabf4291c24a3784cffb59cbd78dffe977b0",
+      "bytes": 138710,
+      "blobPath": "lastseen/case-packs/v1/blobs/1c11ae81704f267773abfb4384ccaabf4291c24a3784cffb59cbd78dffe977b0.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_30.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "80bc42850a2d249391438fe98e6a0882176cbfcc3d1a0f7af46ffc9bcb2ecb7f",
+      "bytes": 134218,
+      "blobPath": "lastseen/case-packs/v1/blobs/80bc42850a2d249391438fe98e6a0882176cbfcc3d1a0f7af46ffc9bcb2ecb7f.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_31.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "67b717e95627fe8440034b6183d23f4f2c77ed7407b6f2e31225307302881dbc",
+      "bytes": 162524,
+      "blobPath": "lastseen/case-packs/v1/blobs/67b717e95627fe8440034b6183d23f4f2c77ed7407b6f2e31225307302881dbc.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_32.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "e3ad309ec8d6dd098989995b80e87a21370e520081cd61c35e3d4897022f20a4",
+      "bytes": 140190,
+      "blobPath": "lastseen/case-packs/v1/blobs/e3ad309ec8d6dd098989995b80e87a21370e520081cd61c35e3d4897022f20a4.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_33.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "4fae184d9568c8adc63f6ce807b9a15ff2cfb8dc0ef7b68b6857b09c087097b5",
+      "bytes": 58470,
+      "blobPath": "lastseen/case-packs/v1/blobs/4fae184d9568c8adc63f6ce807b9a15ff2cfb8dc0ef7b68b6857b09c087097b5.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_34.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "925fc9f6e93d0aaba6752b30b04385b274cd351db8f1b0239113a1d2c097afca",
+      "bytes": 61928,
+      "blobPath": "lastseen/case-packs/v1/blobs/925fc9f6e93d0aaba6752b30b04385b274cd351db8f1b0239113a1d2c097afca.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_35.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "57e188a3a0f4dc6ab99ef3f7dfceb7bae1d8a615db035af4c69df515f693cabc",
+      "bytes": 207266,
+      "blobPath": "lastseen/case-packs/v1/blobs/57e188a3a0f4dc6ab99ef3f7dfceb7bae1d8a615db035af4c69df515f693cabc.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_36.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "f535d61b9cb4e6280b60b6d5f290f1e11d4689700c4330ac765ce1e73cf9be83",
+      "bytes": 40470,
+      "blobPath": "lastseen/case-packs/v1/blobs/f535d61b9cb4e6280b60b6d5f290f1e11d4689700c4330ac765ce1e73cf9be83.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_37.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "ec0629e3a79db7a1d59b30e78e1255adb3bcc9ec44a29cc8a48351747daab8d1",
+      "bytes": 89232,
+      "blobPath": "lastseen/case-packs/v1/blobs/ec0629e3a79db7a1d59b30e78e1255adb3bcc9ec44a29cc8a48351747daab8d1.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_38.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "c4a62c07e0b62af6cc9f30a57c9474494a2fda59ecae9051d983eae88a838bb1",
+      "bytes": 57142,
+      "blobPath": "lastseen/case-packs/v1/blobs/c4a62c07e0b62af6cc9f30a57c9474494a2fda59ecae9051d983eae88a838bb1.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_39.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "629bb77a4d8a080b2184e059c8003a95fc4f927c86150861c75e7f97919f0375",
+      "bytes": 70198,
+      "blobPath": "lastseen/case-packs/v1/blobs/629bb77a4d8a080b2184e059c8003a95fc4f927c86150861c75e7f97919f0375.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_40.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "77c2c9829839d81fda678237561e48d211c96bac2bd47c8db6b73d837ef8db0b",
+      "bytes": 80266,
+      "blobPath": "lastseen/case-packs/v1/blobs/77c2c9829839d81fda678237561e48d211c96bac2bd47c8db6b73d837ef8db0b.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_41.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "da90a4ed315246ce1aa41e8ef1a237c528efb8b4f2017ac0a2a2bbccff3b4642",
+      "bytes": 50086,
+      "blobPath": "lastseen/case-packs/v1/blobs/da90a4ed315246ce1aa41e8ef1a237c528efb8b4f2017ac0a2a2bbccff3b4642.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_42.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "89902a6e30f4a3d3e01ff674e88fae6d53e99cd3ab87197aa85a8853a99f7e82",
+      "bytes": 85976,
+      "blobPath": "lastseen/case-packs/v1/blobs/89902a6e30f4a3d3e01ff674e88fae6d53e99cd3ab87197aa85a8853a99f7e82.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_43.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "2c619196faa8fb3e24f673e6128985932bcead122dae6fdf674ac9cebbd1edee",
+      "bytes": 185504,
+      "blobPath": "lastseen/case-packs/v1/blobs/2c619196faa8fb3e24f673e6128985932bcead122dae6fdf674ac9cebbd1edee.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_party_44.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "785945fd5516a12569ddc719105d714da0978c40d6675e2fa27bbb257dbcdef5",
+      "bytes": 68992,
+      "blobPath": "lastseen/case-packs/v1/blobs/785945fd5516a12569ddc719105d714da0978c40d6675e2fa27bbb257dbcdef5.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_selfie_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "5ee49a054ab52f6f584941febba8f9b1bad1915aa7f1022bb8553d59928e5193",
+      "bytes": 121170,
+      "blobPath": "lastseen/case-packs/v1/blobs/5ee49a054ab52f6f584941febba8f9b1bad1915aa7f1022bb8553d59928e5193.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/ghost_selfie_02.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "d94b98d3df4834532132d0bb9ced635daf3367d8651e2168ba625fb2c06783b3",
+      "bytes": 169454,
+      "blobPath": "lastseen/case-packs/v1/blobs/d94b98d3df4834532132d0bb9ced635daf3367d8651e2168ba625fb2c06783b3.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_01.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "9560a811791ed959b8d8072e25c8cfb38a0d4cc17e264046b64a0ad4841160a9",
+      "bytes": 76764,
+      "blobPath": "lastseen/case-packs/v1/blobs/9560a811791ed959b8d8072e25c8cfb38a0d4cc17e264046b64a0ad4841160a9.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_02.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "b263ded2c0d92121bf65aaa0aa10a0f7f322525fa152da60d64a0a8563349846",
+      "bytes": 97870,
+      "blobPath": "lastseen/case-packs/v1/blobs/b263ded2c0d92121bf65aaa0aa10a0f7f322525fa152da60d64a0a8563349846.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_03.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "4c6fbae863fede24038de71623c6b22648bb22cde771dc234a960f06e08bb8a3",
+      "bytes": 63836,
+      "blobPath": "lastseen/case-packs/v1/blobs/4c6fbae863fede24038de71623c6b22648bb22cde771dc234a960f06e08bb8a3.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_04.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "34ba186b2ac506f958498c45d4a66f248a37446987d8e73c04c8300c05b7a4fb",
+      "bytes": 224130,
+      "blobPath": "lastseen/case-packs/v1/blobs/34ba186b2ac506f958498c45d4a66f248a37446987d8e73c04c8300c05b7a4fb.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_05.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "531fc4bce58713f75242bb448a1af6abae083870f900721b308866bbc90eb41c",
+      "bytes": 248336,
+      "blobPath": "lastseen/case-packs/v1/blobs/531fc4bce58713f75242bb448a1af6abae083870f900721b308866bbc90eb41c.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_06.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "fa295b85d70b5c16750008c3b193c35b42523f449f1c096cb040c8aeb2987aa4",
+      "bytes": 165156,
+      "blobPath": "lastseen/case-packs/v1/blobs/fa295b85d70b5c16750008c3b193c35b42523f449f1c096cb040c8aeb2987aa4.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_07.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "4c6fbae863fede24038de71623c6b22648bb22cde771dc234a960f06e08bb8a3",
+      "bytes": 63836,
+      "blobPath": "lastseen/case-packs/v1/blobs/4c6fbae863fede24038de71623c6b22648bb22cde771dc234a960f06e08bb8a3.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_08.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "598c0031c26483bb9ecb21fd17dfc1559a187f0ee6a86f9f7bf9684d4a82ea20",
+      "bytes": 187820,
+      "blobPath": "lastseen/case-packs/v1/blobs/598c0031c26483bb9ecb21fd17dfc1559a187f0ee6a86f9f7bf9684d4a82ea20.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_09.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "7ad6ede3ea4a88e84b034f657a4abbf2492f47c068f6bc6c682a93856e116821",
+      "bytes": 137010,
+      "blobPath": "lastseen/case-packs/v1/blobs/7ad6ede3ea4a88e84b034f657a4abbf2492f47c068f6bc6c682a93856e116821.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_10.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "577c6a118c8e14beb976dd2ad150e855317575aeae55bd1b9e63d4e98000bec7",
+      "bytes": 236604,
+      "blobPath": "lastseen/case-packs/v1/blobs/577c6a118c8e14beb976dd2ad150e855317575aeae55bd1b9e63d4e98000bec7.webp"
+    },
+    {
+      "logicalPath": "assets/photos/ghost/y2k/ghost_y2k_11.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "065b9464ce6d397b9fe669d69ec2085f6c3658d49b7bae6e780d3b0171e2b8f4",
+      "bytes": 167394,
+      "blobPath": "lastseen/case-packs/v1/blobs/065b9464ce6d397b9fe669d69ec2085f6c3658d49b7bae6e780d3b0171e2b8f4.webp"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_icloud_fragment.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "b061e966a2bc069a38850df6857e1d134b88086b7882c9f9bd7841134b16c72e",
+      "bytes": 120725,
+      "blobPath": "lastseen/case-packs/v1/blobs/b061e966a2bc069a38850df6857e1d134b88086b7882c9f9bd7841134b16c72e.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_memo_01.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "f827a8b37a2b18974c63af047bf35946faf5b236a06cc4a227e9b89e46116334",
+      "bytes": 121561,
+      "blobPath": "lastseen/case-packs/v1/blobs/f827a8b37a2b18974c63af047bf35946faf5b236a06cc4a227e9b89e46116334.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_memo_02.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "459cdd4e2ac78944751fb65a08deb33bbc67e6cc50c0b941ca63648d59a2d36d",
+      "bytes": 170462,
+      "blobPath": "lastseen/case-packs/v1/blobs/459cdd4e2ac78944751fb65a08deb33bbc67e6cc50c0b941ca63648d59a2d36d.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_memo_03.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "842af5689eeac6edb6296f23a9bda16246caf71253539d59f376e60a0eb93fbd",
+      "bytes": 228559,
+      "blobPath": "lastseen/case-packs/v1/blobs/842af5689eeac6edb6296f23a9bda16246caf71253539d59f376e60a0eb93fbd.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_memo_04.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "1519112b917a4ce37ce6fe4544341501ed69b333f798b90c58f7324ef1ae6e08",
+      "bytes": 246949,
+      "blobPath": "lastseen/case-packs/v1/blobs/1519112b917a4ce37ce6fe4544341501ed69b333f798b90c58f7324ef1ae6e08.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_memo_05.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "c95ad10100398879c437c2097cc21dd8066eaaa47c2a86b5fe5f67468a90d0d7",
+      "bytes": 221871,
+      "blobPath": "lastseen/case-packs/v1/blobs/c95ad10100398879c437c2097cc21dd8066eaaa47c2a86b5fe5f67468a90d0d7.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_memo_06.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "7f6955fc17a2f54e8ff7e17845dc41610e177c3756d1b4a7da03e9a955060b4a",
+      "bytes": 251546,
+      "blobPath": "lastseen/case-packs/v1/blobs/7f6955fc17a2f54e8ff7e17845dc41610e177c3756d1b4a7da03e9a955060b4a.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_memo_oct14.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "46ee0710973dccc6cad1f899ff4489bf701e61324d2e45670cd458e10e56fbf6",
+      "bytes": 356454,
+      "blobPath": "lastseen/case-packs/v1/blobs/46ee0710973dccc6cad1f899ff4489bf701e61324d2e45670cd458e10e56fbf6.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_vm_david.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "c73ca91219da0e480558d433b733fd9636f7c7d4a93ecacedb9f1a6890db541f",
+      "bytes": 168373,
+      "blobPath": "lastseen/case-packs/v1/blobs/c73ca91219da0e480558d433b733fd9636f7c7d4a93ecacedb9f1a6890db541f.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_vm_hannah.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "76b6e78e389e3ee28be8c6aa9783ebf5c9a597e1742da7e39fbb4ce4764a1233",
+      "bytes": 233156,
+      "blobPath": "lastseen/case-packs/v1/blobs/76b6e78e389e3ee28be8c6aa9783ebf5c9a597e1742da7e39fbb4ce4764a1233.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_vm_lily.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "ee74d9fd335eba1e0bc74150efe3d903956b1ea9d6ea41f5a1daac1659fb4702",
+      "bytes": 241933,
+      "blobPath": "lastseen/case-packs/v1/blobs/ee74d9fd335eba1e0bc74150efe3d903956b1ea9d6ea41f5a1daac1659fb4702.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_vm_marcus.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "9485996cbe77274fad14152d9035dc8f34a80b82a4ffbf2b7043a5cce6ebbec3",
+      "bytes": 272444,
+      "blobPath": "lastseen/case-packs/v1/blobs/9485996cbe77274fad14152d9035dc8f34a80b82a4ffbf2b7043a5cce6ebbec3.mp3"
+    },
+    {
+      "logicalPath": "assets/sounds/ghost_vm_unknown.mp3",
+      "role": "audio",
+      "mediaType": "audio/mpeg",
+      "sha256": "300d190b81d6418a6c45501d3def3d534bf81c4b6d72486978caa41e926318b4",
+      "bytes": 129502,
+      "blobPath": "lastseen/case-packs/v1/blobs/300d190b81d6418a6c45501d3def3d534bf81c4b6d72486978caa41e926318b4.mp3"
+    },
+    {
+      "logicalPath": "images/phone_wallpaper_ghost.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "b39fdc889e3207eb4bbecfab4594f8fb0b47edcc766487019a886cb9f60a6cb6",
+      "bytes": 103330,
+      "blobPath": "lastseen/case-packs/v1/blobs/b39fdc889e3207eb4bbecfab4594f8fb0b47edcc766487019a886cb9f60a6cb6.webp"
+    }
+  ],
+  "bundledShell": [
+    {
+      "logicalPath": "assets/images/app_calendar.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "55ea43bafde811eeeb89fff5d359466ca0f3a69d7b98ec7fbcb21482d96b50fb",
+      "bytes": 5662,
+      "currentSource": "app/assets/cases/runtime/55ea43bafde811eeeb89fff5d359466ca0f3a69d7b98ec7fbcb21482d96b50fb.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_find_my.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "e7a0be63a2c284872c597a379dd10f1ab2ca744d62c63073acc90819e76cb99e",
+      "bytes": 51954,
+      "currentSource": "app/assets/cases/runtime/e7a0be63a2c284872c597a379dd10f1ab2ca744d62c63073acc90819e76cb99e.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_health.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "a7e6e104889c1285e86dec4c8285e4303f354b1685613a74cb5d58524a36fda0",
+      "bytes": 17216,
+      "currentSource": "app/assets/cases/runtime/a7e6e104889c1285e86dec4c8285e4303f354b1685613a74cb5d58524a36fda0.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_icloud.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "718f8c11c36bfaa22d2615caaf481146512c641d7776448d895b95f38bc9f692",
+      "bytes": 7098,
+      "currentSource": "lastseen/ghost/assets/images/app_icloud.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_instagram.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "c894e56075adf2f980e328805c0581b82dc86d1d6a2682417e9cdf8b25b4abc2",
+      "bytes": 12540,
+      "currentSource": "app/assets/cases/runtime/c894e56075adf2f980e328805c0581b82dc86d1d6a2682417e9cdf8b25b4abc2.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_keeper.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "4978477c290e49f26ca5b9f0eb5c91057335d29bf93c0712f2971f4c4d34432a",
+      "bytes": 10930,
+      "currentSource": "lastseen/ghost/assets/images/app_keeper.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_maps.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "e9ee3ee6bcbc8e23f321137772e31e9f6f75645bce34d578b7e4c1e464d2e2a4",
+      "bytes": 14786,
+      "currentSource": "app/assets/cases/runtime/e9ee3ee6bcbc8e23f321137772e31e9f6f75645bce34d578b7e4c1e464d2e2a4.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_mybox.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "cc388e3bdc8e61f08d9cb4824657970bf3efe8557bbe21f4242a255b90c3cfe3",
+      "bytes": 3636,
+      "currentSource": "app/assets/cases/runtime/cc388e3bdc8e61f08d9cb4824657970bf3efe8557bbe21f4242a255b90c3cfe3.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_notes.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "27e9bf3bb9c4c620d96c3eb35258aeeda976fcb31df70aaed489fc5ba152a896",
+      "bytes": 3142,
+      "currentSource": "app/assets/cases/runtime/27e9bf3bb9c4c620d96c3eb35258aeeda976fcb31df70aaed489fc5ba152a896.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_pacman.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "fec2453be96f93587cddc287a2b601e7b7f133bc630a85fe9b3bfee2f274f63e",
+      "bytes": 65324,
+      "currentSource": "app/assets/cases/runtime/fec2453be96f93587cddc287a2b601e7b7f133bc630a85fe9b3bfee2f274f63e.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_photos.webp",
+      "role": "photo",
+      "mediaType": "image/webp",
+      "sha256": "a70fca6a2d7f6363ae86d6c1c8ea99b384ba1875fc148861888adabfae74730d",
+      "bytes": 11098,
+      "currentSource": "app/assets/cases/runtime/a70fca6a2d7f6363ae86d6c1c8ea99b384ba1875fc148861888adabfae74730d.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_revolut.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "2fb40473539531afc973154c3c4ac4a265d7f47fdf4b5ebfcab464e63fe9503b",
+      "bytes": 4490,
+      "currentSource": "app/assets/cases/runtime/2fb40473539531afc973154c3c4ac4a265d7f47fdf4b5ebfcab464e63fe9503b.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_safari.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "eb74843d0eb948297ce8f3b2db5eff41525cade8364ff69c14f8ab891bffb94d",
+      "bytes": 16516,
+      "currentSource": "app/assets/cases/runtime/eb74843d0eb948297ce8f3b2db5eff41525cade8364ff69c14f8ab891bffb94d.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_settings.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "4d3db19d0d840f14560d1cd9ec3c1cd924c674a28b50e6c90beb82400feedf2c",
+      "bytes": 23718,
+      "currentSource": "app/assets/cases/runtime/4d3db19d0d840f14560d1cd9ec3c1cd924c674a28b50e6c90beb82400feedf2c.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_tetris.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "5cba9661c9e44d5e9831d6fa917a7914aae77006230ce60fed288444e24f6e43",
+      "bytes": 50798,
+      "currentSource": "app/assets/cases/runtime/5cba9661c9e44d5e9831d6fa917a7914aae77006230ce60fed288444e24f6e43.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_voicememo.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "b3ff30e149447eb4ef812970fcc94d442c87e2d082c917fad459472539745ae4",
+      "bytes": 3988,
+      "currentSource": "lastseen/ghost/assets/images/app_voicememo.webp"
+    },
+    {
+      "logicalPath": "assets/images/case_ghost.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "fed767239ddb098f849b2dc3390ac88cebc086602797c925a580b209a14cde83",
+      "bytes": 94556,
+      "currentSource": "app/assets/cases/runtime/fed767239ddb098f849b2dc3390ac88cebc086602797c925a580b209a14cde83.webp"
+    },
+    {
+      "logicalPath": "assets/images/dock_mail.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "7ed1b3e924aa85213d80e007d888fff4cfee45e4bce617ba2c21fd043149709c",
+      "bytes": 5178,
+      "currentSource": "app/assets/cases/runtime/7ed1b3e924aa85213d80e007d888fff4cfee45e4bce617ba2c21fd043149709c.webp"
+    },
+    {
+      "logicalPath": "assets/images/dock_messages.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "11352cb79708c0b25ad085f64cff63ac13d824fbb546380483e4ceb0da4098f2",
+      "bytes": 3636,
+      "currentSource": "app/assets/cases/runtime/11352cb79708c0b25ad085f64cff63ac13d824fbb546380483e4ceb0da4098f2.webp"
+    },
+    {
+      "logicalPath": "assets/images/dock_phone.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "05faf17476405038cd74ce7a277fe6012653cea90aaeff4446dbc1c49ca17b5b",
+      "bytes": 5972,
+      "currentSource": "app/assets/cases/runtime/05faf17476405038cd74ce7a277fe6012653cea90aaeff4446dbc1c49ca17b5b.webp"
+    }
+  ]
+}

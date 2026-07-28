@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "packVersion": "v1",
+  "caseId": "juno",
+  "locale": "en",
+  "contentRevision": "lastseen-1.1.12",
+  "source": {
+    "packageSha256": "17bceeb8f0ff2eb62d91cb2a69a3a9b025fa1457fa2fed587b222662b32b6a60",
+    "reconstructionManifest": "juno.en.conversion-manifest.json",
+    "reconstructionManifestSha256": "74e55c4604567eed6f44d39512e4b1b96f17d3fc384d07652977e4e2c777267c"
+  },
+  "delivery": {
+    "baseUrl": "https://raw.githubusercontent.com/qnkhuat/stalkin-assets/main/",
+    "integrity": "sha256",
+    "cacheKey": "sha256"
+  },
+  "summary": {
+    "downloadableEntries": 1,
+    "uniqueDownloadBlobs": 1,
+    "uniqueDownloadBytes": 230022,
+    "bundledShellEntries": 8,
+    "bundledShellBytes": 244962
+  },
+  "assets": [
+    {
+      "logicalPath": "images/phone_wallpaper_juno.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "1375b2eb1504d1d49e38cee42827ee534ad875dc50a7613e734da372969812a4",
+      "bytes": 230022,
+      "blobPath": "lastseen/case-packs/v1/blobs/1375b2eb1504d1d49e38cee42827ee534ad875dc50a7613e734da372969812a4.webp"
+    }
+  ],
+  "bundledShell": [
+    {
+      "logicalPath": "assets/images/app_calendar.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "55ea43bafde811eeeb89fff5d359466ca0f3a69d7b98ec7fbcb21482d96b50fb",
+      "bytes": 5662,
+      "currentSource": "app/assets/cases/runtime/55ea43bafde811eeeb89fff5d359466ca0f3a69d7b98ec7fbcb21482d96b50fb.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_contacts.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "22eda2c5861fe22d9ad3c0690cd05fef7da0826addb183db03f9eed4fde1056f",
+      "bytes": 4836,
+      "currentSource": "app/assets/cases/runtime/22eda2c5861fe22d9ad3c0690cd05fef7da0826addb183db03f9eed4fde1056f.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_gmail.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "7ed1b3e924aa85213d80e007d888fff4cfee45e4bce617ba2c21fd043149709c",
+      "bytes": 5178,
+      "currentSource": "app/assets/cases/runtime/7ed1b3e924aa85213d80e007d888fff4cfee45e4bce617ba2c21fd043149709c.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_maps.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "e9ee3ee6bcbc8e23f321137772e31e9f6f75645bce34d578b7e4c1e464d2e2a4",
+      "bytes": 14786,
+      "currentSource": "app/assets/cases/runtime/e9ee3ee6bcbc8e23f321137772e31e9f6f75645bce34d578b7e4c1e464d2e2a4.webp"
+    },
+    {
+      "logicalPath": "assets/images/app_notes.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "27e9bf3bb9c4c620d96c3eb35258aeeda976fcb31df70aaed489fc5ba152a896",
+      "bytes": 3142,
+      "currentSource": "app/assets/cases/runtime/27e9bf3bb9c4c620d96c3eb35258aeeda976fcb31df70aaed489fc5ba152a896.webp"
+    },
+    {
+      "logicalPath": "assets/images/case_juno.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "7dd4908cdb580dfe72c8504a5c6ffa8b6a91875357599ccbe6ff67b9435dd6d7",
+      "bytes": 201750,
+      "currentSource": "app/assets/cases/runtime/7dd4908cdb580dfe72c8504a5c6ffa8b6a91875357599ccbe6ff67b9435dd6d7.webp"
+    },
+    {
+      "logicalPath": "assets/images/dock_messages.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "11352cb79708c0b25ad085f64cff63ac13d824fbb546380483e4ceb0da4098f2",
+      "bytes": 3636,
+      "currentSource": "app/assets/cases/runtime/11352cb79708c0b25ad085f64cff63ac13d824fbb546380483e4ceb0da4098f2.webp"
+    },
+    {
+      "logicalPath": "assets/images/dock_phone.webp",
+      "role": "image",
+      "mediaType": "image/webp",
+      "sha256": "05faf17476405038cd74ce7a277fe6012653cea90aaeff4446dbc1c49ca17b5b",
+      "bytes": 5972,
+      "currentSource": "app/assets/cases/runtime/05faf17476405038cd74ce7a277fe6012653cea90aaeff4446dbc1c49ca17b5b.webp"
+    }
+  ]
+}

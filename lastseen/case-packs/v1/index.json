@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "packVersion": "v1",
+  "baseUrl": "https://raw.githubusercontent.com/qnkhuat/stalkin-assets/main/",
+  "manifests": [
+    {
+      "caseId": "noor",
+      "path": "lastseen/case-packs/v1/manifests/noor.json",
+      "sha256": "710792b2759162320dcf8aafb4f1060e3812223aeebc6005bb010efd7e1299d6",
+      "downloadableEntries": 178,
+      "uniqueDownloadBlobs": 177,
+      "uniqueDownloadBytes": 19658609,
+      "bundledShellEntries": 19,
+      "bundledShellBytes": 283022
+    },
+    {
+      "caseId": "felix",
+      "path": "lastseen/case-packs/v1/manifests/felix.json",
+      "sha256": "da22445a90213b46d178348132f7d4496cda31dfdbda818d3c0e346b560c7171",
+      "downloadableEntries": 194,
+      "uniqueDownloadBlobs": 193,
+      "uniqueDownloadBytes": 21382224,
+      "bundledShellEntries": 21,
+      "bundledShellBytes": 277978
+    },
+    {
+      "caseId": "rei",
+      "path": "lastseen/case-packs/v1/manifests/rei.json",
+      "sha256": "85c75e2e48e4a7561be6a4b95d12dd9b798c623928deff42beb119d29c0c6060",
+      "downloadableEntries": 208,
+      "uniqueDownloadBlobs": 199,
+      "uniqueDownloadBytes": 24967880,
+      "bundledShellEntries": 25,
+      "bundledShellBytes": 349086
+    },
+    {
+      "caseId": "liv",
+      "path": "lastseen/case-packs/v1/manifests/liv.json",
+      "sha256": "468e4318c3e3e20067e7334be0c5feccf91843f75de07580eb5b4a7d52d80612",
+      "downloadableEntries": 244,
+      "uniqueDownloadBlobs": 238,
+      "uniqueDownloadBytes": 46741121,
+      "bundledShellEntries": 15,
+      "bundledShellBytes": 1349752
+    },
+    {
+      "caseId": "ghost",
+      "path": "lastseen/case-packs/v1/manifests/ghost.json",
+      "sha256": "611a392b63c8b3fe81b534b512659ab2142d3daeb520ddcc1029ce38322c5e0d",
+      "downloadableEntries": 105,
+      "uniqueDownloadBlobs": 104,
+      "uniqueDownloadBytes": 14827493,
+      "bundledShellEntries": 20,
+      "bundledShellBytes": 412238
+    },
+    {
+      "caseId": "ava",
+      "path": "lastseen/case-packs/v1/manifests/ava.json",
+      "sha256": "920f2e992c29b83b167f117adca8c0f0d9602c31e17c17ae7fec4893d1737be4",
+      "downloadableEntries": 135,
+      "uniqueDownloadBlobs": 129,
+      "uniqueDownloadBytes": 12854496,
+      "bundledShellEntries": 18,
+      "bundledShellBytes": 405852
+    },
+    {
+      "caseId": "wren",
+      "path": "lastseen/case-packs/v1/manifests/wren.json",
+      "sha256": "3bbedd1b79dc76ad4670bf280d69c1110a73023a99a7ddc488c76df4ec9259f4",
+      "downloadableEntries": 97,
+      "uniqueDownloadBlobs": 97,
+      "uniqueDownloadBytes": 11421249,
+      "bundledShellEntries": 11,
+      "bundledShellBytes": 277976
+    },
+    {
+      "caseId": "juno",
+      "path": "lastseen/case-packs/v1/manifests/juno.json",
+      "sha256": "c316f16220c6cbfe9c86a540a3cd7e575a4a1218f032d9a61601a02cce10bb73",
+      "downloadableEntries": 1,
+      "uniqueDownloadBlobs": 1,
+      "uniqueDownloadBytes": 230022,
+      "bundledShellEntries": 8,
+      "bundledShellBytes": 244962
+    }
+  ]
+}
